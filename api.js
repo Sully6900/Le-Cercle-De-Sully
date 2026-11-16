@@ -4,8 +4,8 @@
    Ce fichier s'ajoute comme les autres scripts du site.
 
    A REMPLIR :
-     URL_BASE      = https://VOTRE-PROJET.supabase.co
-     CLE_PUBLIQUE  = la cle publique du projet (sb_publishable_...)
+   var URL_BASE = 'https://awwobkkoargafrlcodrf.supabase.co';
+   var CLE_PUBLIQUE = 'sb_publishable_a4AEElob_iLxSACsvNofaA_hjJ3nVvV';
 
    Ces deux valeurs sont PUBLIQUES par nature : elles sont
    faites pour vivre dans un site. Ce qui doit rester secret,
