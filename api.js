@@ -30,8 +30,8 @@ var BOUTIQUE_API = (function () {
   /* -------------------------------------------------------
      IDENTIFIANTS DU PROJET (deja remplis)
      ------------------------------------------------------- */
-  var URL_BASE = '';      /* a remplir : adresse de votre projet Supabase */
-  var CLE_PUBLIQUE = '';  /* a remplir : votre cle publiable */
+   var URL_BASE = 'https://awwobkkoargafrlcodrf.supabase.co';
+   var CLE_PUBLIQUE = 'sb_publishable_a4AEElob_iLxSACsvNofaA_hjJ3nVvV';
 
   /* -------------------------------------------------------
      OUTILS INTERNES
