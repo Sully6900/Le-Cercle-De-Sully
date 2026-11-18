@@ -30,7 +30,7 @@ var BOUTIQUE_API = (function () {
   /* -------------------------------------------------------
      IDENTIFIANTS DU PROJET (deja remplis)
      ------------------------------------------------------- */
-   var URL_BASE = var SUPABASE_URL = "https://jrmcyurpaedspxileshx.supabase.co";
+    var URL_BASE = "https://jrmcyurpaedspxileshx.supabase.co";
     var CLE_PUBLIQUE = "sb_publishable_exN3GbYVHQ6QfHfRl7mGdQ_U4Gj_T9f";
 
 
