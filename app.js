@@ -663,7 +663,7 @@
      Telegram, lui, vit dans Supabase, jamais dans ce fichier.
      ------------------------------------------------------- */
      var SUPABASE_URL = 'https://awwobkkoargafrlcodrf.supabase.co';
-     var CLE_PUBLIQUE = 'sb_publishable_a4AEElob_iLxSACsvNofaA_hjJ3nVvV';
+     var SUPABASE_CLE = 'sb_publishable_a4AEElob_iLxSACsvNofaA_hjJ3nVvV';
 
 
   /* -------------------------------------------------------
