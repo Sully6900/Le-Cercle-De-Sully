@@ -662,8 +662,9 @@
      ce sont des valeurs faites pour etre visibles. Le jeton
      Telegram, lui, vit dans Supabase, jamais dans ce fichier.
      ------------------------------------------------------- */
-   var SUPABASE_URL = 'https://jrmcyurpaedspxileshx.supabase.co';
-   var SUPABASE_CLE = 'sb_publishable_exN3GbYVHQ6QfHfRl7mGdQ_U4Gj_T9f';
+   var SUPABASE_URL ='https://awwobkkoargafrlcodrf.supabase.co';
+   var SUPABASE_CLE ='sb_publishable_a4AEElob_iLxSACsvNofaA_hjJ3nVvV';
+
 
   /* -------------------------------------------------------
      JOURNAL DES ENVOIS RATES
